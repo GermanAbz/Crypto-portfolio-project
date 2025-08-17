@@ -2,7 +2,7 @@
 Pet Project "Crypto Portfolio" is made to dynamically track user's crypto portfolio value based on the current prices. 
 Built with React.js (front end) and Node.js (back end). 
 
-Front end (React.js) used tools:
+Front end (React.js):
 - React components and props;
 - React hooks (useState, useEffect, useNavigate, useLocation, useRef);
 - React forms and event handling;
